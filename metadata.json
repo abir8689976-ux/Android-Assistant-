@@ -1,0 +1,6 @@
+{
+  "name": "Aether AI",
+  "description": "Futuristic voice-first AI mobile assistant powered by Google Gemini with bilingual Bengali and English support, animated AI core, command router, and TTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
